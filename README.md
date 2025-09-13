@@ -8,9 +8,9 @@
 - I was a Teacher's Assistant to my Mathematics Teacher in my coaching for the first year
 
 ## Programming Interest 💻
--I had studied HTML and CSS last year.
--I had studied basic Python.
--I am studying the C language now.
+- I had studied HTML and CSS last year.
+- I had studied basic Python.
+- I am studying the C language now.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/sarimbinazeem
