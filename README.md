@@ -1,7 +1,7 @@
 # Hi, I am Sarim Bin Azeem! 👋🏼
 
 ## About me 📚
-- Currently pursuing my bachelor's degree in Computer Science
+- An open-minded learner who embraces new challenges, loves coding, and is always eager to grow.
 - My background is from the Pre-Engineering Karachi Board.
 - I had 87.2% in my intermediate (100/100 Maths, 97/100 Physics, 96/100 Chemistry)
 - I studied my intermediate from D.J. Sindh Science Government College and Times Collegiate
