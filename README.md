@@ -1,35 +1,18 @@
-# 👋 Hi, I’m Sarim Bin Azeem  
+# Hi, I am Sarim Bin Azeem! 👋🏼
 
-**BSCS Student @ FAST NUCES**  
-💻 Aspiring Developer | 🎨 Creative Editor | 🎥 Ex-YouTuber (1.9K Subs)  
+##About me 📚
+-Currently pursuing my bachelor's degree in Computer Science
+-My background is from the Pre-Engineering Karachi Board.
+-I had 87.2% in my intermediate (100/100 Maths, 97/100 Physics, 96/100 Chemistry)
+-I studied my intermediate from D.J. Sindh Science Government College and Times Collegiate
+- I was a Teacher's Assistant to my Mathematics Teacher in my coaching for the first year
 
----
+## Programming Interest 💻
+-I had studied HTML and CSS last year.
+-I had studied basic Python.
+-I am studying the C language now.
 
-## 🌟 About Me
-- 🎓 Pursuing **BSCS** at FAST NUCES  
-- 💡 Hands-on with **C, HTML, CSS, Python**  
-- 🖌️ Experienced in **Video Editing & Image Editing**  
-- 📺 Ran a **YouTube channel** with *1.9K subscribers*  
-- 🚀 Passionate about blending **tech & creativity**  
-
----
-
-## 🛠️ Skills & Tools
-- **Programming:** C, Python, HTML, CSS  
-- **Creative Tools:** Photoshop, Premiere Pro, Canva  
-- **Other Interests:** Content creation, visual storytelling, problem-solving  
-
----
-
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-
----
-
-## 🌐 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/YourGitHubUsername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YourLinkedIn)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/YourChannel)  
-
----
-✨ *“Code + Creativity = Innovation”* ✨
+## 📫 Connect With Me
+- GitHub: https://github.com/sarimbinazeem
+- LinkedIn: https://www.linkedin.com/in/sarim-bin-azeem-470762383/
+- Email: sarimbinaz@gmail.com
